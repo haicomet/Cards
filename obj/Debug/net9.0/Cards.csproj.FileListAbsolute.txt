@@ -1,0 +1,17 @@
+/Users/hailiasommerville/Desktop/350H/Cards/bin/Debug/net9.0/Cards
+/Users/hailiasommerville/Desktop/350H/Cards/bin/Debug/net9.0/Cards.deps.json
+/Users/hailiasommerville/Desktop/350H/Cards/bin/Debug/net9.0/Cards.runtimeconfig.json
+/Users/hailiasommerville/Desktop/350H/Cards/bin/Debug/net9.0/Cards.dll
+/Users/hailiasommerville/Desktop/350H/Cards/bin/Debug/net9.0/Cards.pdb
+/Users/hailiasommerville/Desktop/350H/Cards/bin/Debug/net9.0/Cards2.dll
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.csproj.AssemblyReference.cache
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.AssemblyInfoInputs.cache
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.AssemblyInfo.cs
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.csproj.CoreCompileInputs.cache
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.csproj.Up2Date
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.dll
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/refint/Cards.dll
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.pdb
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.genruntimeconfig.cache
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/ref/Cards.dll
