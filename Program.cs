@@ -1,4 +1,13 @@
 ﻿using Cards2;
 
-Card c = new Card(Rank.Ace, Suit.Spades);
-Console.WriteLine(c.Rank + " of " + c.Suit);
+Deck deck = new Deck();
+deck.Shuffle();
+
+Card card = deck.TakeTopCard();
+Console.WriteLine($"Top Card: {card.Rank} of {card.Suit}");
+
+//card.Rank = Rank.Ace;
+// card.Rank cannot be changed because it is readonly
+
+Console.WriteLine($"Cards left in deck: ");
+deck.Print();

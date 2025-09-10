@@ -15,3 +15,4 @@
 /Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.pdb
 /Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.genruntimeconfig.cache
 /Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/ref/Cards.dll
+/Users/hailiasommerville/Desktop/350H/Cards/obj/Debug/net9.0/Cards.sourcelink.json
