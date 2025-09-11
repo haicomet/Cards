@@ -37,7 +37,14 @@ players[1].Add(deck.TakeTopCard());
 players[2].Add(deck.TakeTopCard());
 
 // flip all the cards over
-
+for (int i = 0; i < 4; i++)
+{
+    foreach (Card card in players[i])
+    {
+        card.FlipOver();
+    }
+   
+}
 // print the cards for player 1
 // print the cards for player 2
 // print the cards for player 3
